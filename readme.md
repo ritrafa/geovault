@@ -3,6 +3,7 @@
 ## Completed Components
 
 Please see user stories, design decisions, and planned functions/data storage (oth on and off chain) [here](https://coda.io/@robert-ritter/geovault)
+
 See sample front end [here](https://geovault-git-main-robert-ritters-projects.vercel.app/)
 
 ### 1. Core Smart Contract (✅ Complete)
